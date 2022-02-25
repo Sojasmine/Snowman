@@ -238,7 +238,7 @@
     left: 11%;
     top: -8%;
     border-radius: 50%;
-    background: linear-gradient(#d3d3b5, #c73f44, #8c0d0f);
+    background: linear-gradient(#d3d3b5, #c73f44, #8c0d7b);
     z-index: 2;
   }
   
@@ -250,7 +250,7 @@
     left: 13%;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-bottom: 180px solid #ab1a27;
+    border-bottom: 180px solid #ab1aab;
     border-radius: 5px;
   }
   
@@ -345,7 +345,7 @@
     left: 50%;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-bottom: 180px solid #ab1a27;
+    border-bottom: 180px solid #ab1a7b;
     border-radius: 5px;
   }
   
